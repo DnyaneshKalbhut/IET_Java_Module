@@ -17,7 +17,7 @@ public class TestStudentList {
  	    
  	    switch(choice) {
  	    case 1:
- 	    	StudentServices.addnewStudent(choice);
+ 	    	//StudentServices.addnewStudent(choice);
  	    	break;
  	   case 2:
 	    	break;
